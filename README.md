@@ -9,7 +9,7 @@ Teclado virtual
 ### Atributos
 
 | Nombre | Descripción | Default |
-| --- | --- | --- | --- |
+| --- | --- | --- | 
 | keyColor | Color de la letra | #FFF |
 | activeKeyColor | Color del cuadro de la tecla activa | #FF0 |
 | letterColor | Color del cuadro de la tecla | #000 |
