@@ -18,12 +18,19 @@ Teclado virtual
 | contPass | Booleano que determina si hay algún caracter en el campo ‘Contraseña’ | 0 (false) |
 | soundSrc | Efecto de sonido al presionar alguna tecla | keySound.mp3 |
 
-### Methods
+### Métodos
 
-| Name | Description |
+| Nombre | Descripción |
 | --- | --- |
-| show() | Display the keyboard without any animations. |
-| hide() | Hide the keyboard without any animations. |
-| open() | Open the keyboard smoothly. |
-| dismiss() | Close the keyboard smoothly. |
-| destroy() | Remove the keyboard from the scene. |
+| overTecla() | Efecto al posicionar cursor encima de la tecla. |
+| outTecla() | Efecto al posicionar cursor fuera de la tecla. |
+| inputTecla() | Detecta tecla presionada en teclado VR. |
+| clearInput() | Borra texto en campo de texto en teclado VR. |
+| cambiaTeclado() | Alterna teclado VR Minus/Mayus. |
+| destruyeTeclado() | Destruye teclado VR existente. |
+| active() | Efecto de campo de texto activo. |
+| tabActive() | Efecto de campo de texto activo por medio de tecla Tab en teclado físico. |
+| reset() | Resetea color de bordes en campos de texto. |
+| openkeyboard() | Abre teclado VR. |
+| inputTeclado() | Detecta tecla presionada en teclado físico. |
+| login() | Verificación de campos de texto. |
