@@ -34,3 +34,10 @@ Teclado virtual
 | openkeyboard() | Abre teclado VR. |
 | inputTeclado() | Detecta tecla presionada en teclado físico. |
 | login() | Verificación de campos de texto. |
+
+### Dependencias
+
+[https://rawgit.com/rdub80/aframe-gui/master/dist/aframe-gui.min.js ](https://rawgit.com/rdub80/aframe-gui/master/dist/aframe-gui.min.js )
+[https://raw.githubusercontent.com/andycandys/keyboard/master/js/keyboard-json.js](https://raw.githubusercontent.com/andycandys/keyboard/master/js/keyboard-json.js)
+[https://raw.githubusercontent.com/andycandys/keyboard/master/keySound.mp3 ](https://raw.githubusercontent.com/andycandys/keyboard/master/keySound.mp3)
+[https://raw.githubusercontent.com/andycandys/keyboard/master/fonts/Roboto-Regular-msdf.json](https://raw.githubusercontent.com/andycandys/keyboard/master/fonts/Roboto-Regular-msdf.json)
